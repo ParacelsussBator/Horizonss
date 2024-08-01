@@ -1,11 +1,5 @@
 <?php 
 
-// ==================================================
-// uniMail - v.1.0.1
-// Universal PHP Mail Feedback Script
-// More info: https://github.com/agragregra/uniMail
-// ==================================================
-
 
 $method = $_SERVER['REQUEST_METHOD'];
 
